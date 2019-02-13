@@ -1,0 +1,72 @@
+.modal-reload {
+    margin: 100px auto;
+
+    padding: 0 55px;
+
+    width: 550px;
+    height: 360px;
+
+    position: relative;
+
+    border-radius: 10px;
+
+    border: 1px solid black;
+
+    box-sizing: border-box;
+
+    font-family: "Arial", sans-serif;
+}
+
+h4 {
+    margin: 0;
+    margin-bottom: 10px;
+    padding-top: 125px;
+
+    font-size: 18px;
+
+    text-align: center;
+}
+
+p {
+    margin: 0;
+
+    color: #626262;
+
+    font-size: 14px;
+
+    text-align: center;
+
+}
+
+svg {
+    position: absolute;
+    left: 118px;
+    top: -125px;
+}
+
+a {
+    display: block;
+
+    color: #66CC00;
+
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.button {
+    margin: 0 auto;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    padding: 13px 17px;
+
+    width: 190px;
+
+    border-radius: 10px;
+
+    color: #ffffff;
+
+    background-color: #422CFD;
+}
