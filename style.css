@@ -1,3 +1,7 @@
+body {
+    background-color: #cccccc;
+}
+
 .modal-reload {
     margin: 100px auto;
 
@@ -13,6 +17,8 @@
     box-sizing: border-box;
 
     font-family: "Arial", sans-serif;
+
+    background-color: #ffffff;
 }
 
 h4 {
